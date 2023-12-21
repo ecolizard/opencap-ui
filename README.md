@@ -1,4 +1,15 @@
-# Video Comparison Player
+# OpenCap Desktop/Web UI
+
+
+
+
+
+
+
+
+
+
+## Based apon Video Comparison Player
 <a href="https://github.com/bergkamp/video-comparison-player/releases/latest"> <img src="https://img.shields.io/github/v/release/bergkamp/video-comparison-player?display_name=tag"/></a>
 <a href="https://github.com/bergkamp/video-comparison-player/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/bergkamp/video-comparison-player"></a>
 <img src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white" />
@@ -7,7 +18,6 @@
 
 <img width="300px" src="./codec.png" />
 
-EN|[中文](README-ZH.md)
 
 Video Comparison Player is a desktop tool for video super-resolution developers. 
 
