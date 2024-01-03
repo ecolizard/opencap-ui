@@ -1,9 +1,9 @@
 {
-  "name": "video-comparison-player",
-  "version": "2.0.0",
-  "author": "Ruoshi",
-  "description": "Video comparison player",
-  "homepage": "https://github.com/bergkamp/video-comparison-player#readme",
+  "name": "Recovery-Data-Analysis-Tool",
+  "version": "0.1.0",
+  "author": "Mark Townsend",
+  "description": "This repository houses a GUI designed for recording, processing, and analyzing data related to stroke recovery. The software is tailored to efficiently manage and compare data from patients undergoing stroke recovery, facilitating a comprehensive understanding of their progress over time.",
+  "homepage": "https://github.com/ecolizard/opencap-ui",
   "private": true,
   "main": "background.js",
   "scripts": {
@@ -22,6 +22,7 @@
     "vue": "^2.7.4",
     "vue-i18n": "^8.27.2",
     "vue-json-pretty": "^1.8.3",
+    "vue-router": "^2.8.1",
     "vue-zoomer": "^0.3.10"
   },
   "devDependencies": {
@@ -29,7 +30,7 @@
     "@vue/cli-service": "^4.5.13",
     "electron": "^22.2.0",
     "electron-builder": "^23.1.0",
-    "electron-devtools-installer": "^3.1.0",
+    "electron-devtools-installer": "^3.2.0",
     "eslint-plugin-vue": "^6.2.2",
     "vue-cli-plugin-electron-builder": "^2.1.1",
     "vue-template-compiler": "^2.7.4"
