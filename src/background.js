@@ -11,7 +11,6 @@ require('@electron/remote/main').initialize();
 
 //import { videoSupport } from './components/Ffprobe';
 
-//菜单
 let template = [
   {
     label:app.name,
@@ -44,7 +43,7 @@ async function createWindow() {
     darkTheme: true,
     backgroundColor: "#2c3138",
     webPreferences: {
-      
+      devTools: false,    // true for debug
       // Use pluginOptions.nodeIntegration, leave this alone
       // See nklayman.github.io/vue-cli-plugin-electron-builder/guide/security.html#node-integration for more info
       //nodeIntegration: process.env.ELECTRON_NODE_INTEGRATION
@@ -54,7 +53,7 @@ async function createWindow() {
     }
   })
 
-  //打包debug
+  //debug
   //win.webContents.openDevTools();
 
   if (process.env.WEBPACK_DEV_SERVER_URL) {
