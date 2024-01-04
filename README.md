@@ -12,7 +12,6 @@ This repository houses a GUI designed for recording, processing, and analyzing d
 
 - **Comparative Analysis**: Facilitate side-by-side comparison of data between different time points for the same patient, aiding healthcare professionals in assessing the effectiveness of interventions.
 
-Follow these steps to set up the Stroke Recovery Data Analysis GUI:
 * Support shortcut keys
   * `Left and right key` control dividing line
   * `Up key` to control the direction key to return to center

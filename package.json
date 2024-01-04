@@ -1,7 +1,7 @@
 {
   "name": "Recovery-Data-Analysis-Tool",
   "version": "0.1.0",
-  "author": "Mark Townsend",
+  "author": "Mark Townsend (mrt64@bath.ac.uk)",
   "description": "This repository houses a GUI designed for recording, processing, and analyzing data related to stroke recovery. The software is tailored to efficiently manage and compare data from patients undergoing stroke recovery, facilitating a comprehensive understanding of their progress over time.",
   "homepage": "https://github.com/ecolizard/opencap-ui",
   "private": true,

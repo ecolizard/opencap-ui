@@ -6,7 +6,7 @@ Vue.use(VueRouter);
 const routes = [
   {
     path: '/',
-    component: () => import('./App.vue') // Example: Create a Home.vue component
+    component: () => import('./views/Compare.vue') // Example: Create a Home.vue component
   },
   {
     path: '/about',
